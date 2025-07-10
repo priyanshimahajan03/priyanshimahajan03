@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="CreativeGIF.gif">
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
 - 🔭 Currently working on: Full Stack Web Apps using MERN & Design Projects  
